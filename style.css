@@ -1,0 +1,27 @@
+    body{
+        font-family: "Red Hat Text", sans-serif;
+        background: palevioletred;
+        color: white;
+        margin: 0px;
+        margin-bottom: 100px;
+    }
+    header{
+        color: blueviolet;
+        border-bottom: 3px solid blue;
+        font-size: 32px;
+        padding: 15px;
+    }
+    h1{
+        font-size: 35px;
+    }
+    .chamada{
+        background: red;
+        margin-top: 80px;
+        margin-bottom: 80px;
+        display: flex;
+        justify-content: center;
+    }
+    .chamada texto{
+        margin-right: 5%;
+
+    }
