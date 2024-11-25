@@ -25,3 +25,22 @@
         margin-right: 5%;
 
     }
+    .categoria{
+        padding-left: 20px;
+        padding-right: 20px;
+        margin-top: 50px;
+    }
+    .categoria-videos{
+        display: flex;
+        overflow: auto;
+        gap: 20px;
+    }
+
+    .categoria-videos img{
+        height: 200px;
+        opacity: 0.5;
+    }
+    .categoria.categoria-videos img houver{
+        opacity: 1.0;
+        border: 3px solid purple;
+    }
